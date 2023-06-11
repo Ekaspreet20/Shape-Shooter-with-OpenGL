@@ -19,7 +19,7 @@ This is an archery game built using OPEN GL. When the program is executed the fr
 *	The player should press 'w' to shoot the arrow which is invisible.
 * The player should press 'a' to move the platform left.
 * The player should press 'd' to move the platform right.
-*There is a restriction on the number of platform movements that can be performed.
-*The targets must be destroyed within the total number of movements provided.
-*Every level has a different type of target design.
-*There are twelve positions to which the platform can move to.
+* There is a restriction on the number of platform movements that can be performed.
+* The targets must be destroyed within the total number of movements provided.
+* Every level has a different type of target design.
+* There are twelve positions to which the platform can move to.
